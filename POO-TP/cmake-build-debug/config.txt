@@ -1,0 +1,4 @@
+miner 10
+len 12
+mnf 20
+xpto 30

@@ -1,0 +1,15 @@
+debcash 1000
+cons mnf 1 1
+cont miner
+move 1.1 1 1
+cons elec 2 2
+cont miner
+move 2.1 2 2
+liga 1 1
+liga 2 2
+cons fun 2 1
+liga 2 1
+cont oper
+move 3.1 2 1
+cons bat 2 3
+liga 2 3

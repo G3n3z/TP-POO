@@ -1,0 +1,2 @@
+exec comando2.txt
+exec comando.txt

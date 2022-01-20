@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="POO_TP1"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="POO_TP1">
+				<Option output="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/POO_TP1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 POO_TP1"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="POO_TP1/fast">
+				<Option output="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/POO_TP1" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 POO_TP1/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988\ 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Comand.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Comand.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/ComandoValido.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificio.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificio.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/Bateria.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/Bateria.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/CentralEletrica.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/CentralEletrica.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/EdificioX.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/EdificioX.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/Fundicao.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/Fundicao.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/MinadeCarvao.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/MinadeCarvao.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/MinadeFerro.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/MinadeFerro.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/Serracao.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Edificios/Serracao.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Ilha.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Ilha.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Jogo.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Jogo.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recurso.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recurso.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/BarradeAco.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/BarradeAco.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Carvao.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Carvao.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Eletricidade.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Eletricidade.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Ferro.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Ferro.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Madeira.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Madeira.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Viga.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Recursos/Viga.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhador.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhador.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhadores/lenhador.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhadores/lenhador.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhadores/mineiro.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhadores/mineiro.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhadores/operario.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Trabalhadores/operario.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zona.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zona.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Deserto.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Deserto.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Floresta.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Floresta.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Montanha.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Montanha.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Pantano.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Pantano.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Pastagem.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/Pastagem.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/ZonaX.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/Zonas/ZonaX.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/main.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/utils/utils.cpp">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/utils/utils.h">
+			<Option target="POO_TP1"/>
+		</Unit>
+		<Unit filename="/Users/danielfernandes/Downloads/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988 2/poo_2122_tp_meta2_DanielFernandes_2020116565_HugoJorge_2020116988/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

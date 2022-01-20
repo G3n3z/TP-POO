@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.19)
+project(POO_TP1)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(POO_TP1 main.cpp Comand.cpp Comand.h Ilha.cpp Ilha.h Edificio.cpp Edificio.h Zona.cpp Zona.h Trabalhador.cpp Trabalhador.h ComandoValido.h Trabalhadores/mineiro.cpp Trabalhadores/mineiro.h Trabalhadores/lenhador.cpp Trabalhadores/lenhador.h Trabalhadores/operario.cpp Trabalhadores/operario.h Edificios/MinadeFerro.cpp Edificios/MinadeFerro.h Edificios/MinadeCarvao.cpp Edificios/MinadeCarvao.h Edificios/CentralEletrica.cpp Edificios/CentralEletrica.h Edificios/Bateria.cpp Edificios/Bateria.h Edificios/Fundicao.cpp Edificios/Fundicao.h Edificios/EdificioX.cpp Edificios/EdificioX.h Zonas/Deserto.cpp Zonas/Deserto.h Zonas/Pastagem.cpp Zonas/Pastagem.h Zonas/Floresta.cpp Zonas/Floresta.h Zonas/Montanha.cpp Zonas/Montanha.h Zonas/Pantano.cpp Zonas/Pantano.h Zonas/ZonaX.cpp Zonas/ZonaX.h Recurso.cpp Recurso.h Recursos/Viga.cpp Recursos/Viga.h Recursos/BarradeAco.cpp Recursos/BarradeAco.h Recursos/Carvao.cpp Recursos/Carvao.h Recursos/Madeira.cpp Recursos/Madeira.h Recursos/Ferro.cpp Recursos/Ferro.h Recursos/Eletricidade.cpp Recursos/Eletricidade.h utils/utils.h utils/utils.cpp Edificios/Serracao.cpp Edificios/Serracao.h Jogo.cpp Jogo.h)

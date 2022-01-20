@@ -1,0 +1,3 @@
+mnf 30
+len 25
+miner 30
